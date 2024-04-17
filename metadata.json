@@ -56,7 +56,7 @@
                 "AcquisitionDate": "20240408",
                 "AcquisitionTime": "161124"
               },
-              "url": "dicomweb:https://prd-exams.s3.amazonaws.com/santa_casa_de_misericordia_de_cosmopolis/1412358/0_1.dcm"
+              "url": "dicomweb:https://github.com/norberto-vx/meta/raw/main/1412358/0_1.dcm1412358/0_1.dcm"
             }
           ]
         },
@@ -100,7 +100,7 @@
                 "AcquisitionDate": "20240408",
                 "AcquisitionTime": "161315"
               },
-              "url": "dicomweb:https://prd-exams.s3.amazonaws.com/santa_casa_de_misericordia_de_cosmopolis/1412358/1_1.dcm"
+              "url": "dicomweb:https://github.com/norberto-vx/meta/raw/main/1412358/0_1.dcm1412358/1_1.dcm"
             }
           ]
         },
@@ -144,7 +144,7 @@
                 "AcquisitionDate": "20240408",
                 "AcquisitionTime": "161355"
               },
-              "url": "dicomweb:https://prd-exams.s3.amazonaws.com/santa_casa_de_misericordia_de_cosmopolis/1412358/2_1.dcm"
+              "url": "dicomweb:https://github.com/norberto-vx/meta/raw/main/1412358/0_1.dcm1412358/2_1.dcm"
             }
           ]
         }
